@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/satish/IdeaProjects/spark-flights/target/scala-2.11/spark-flights_2.11-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	in/javamantra/spark/MostDelayedAirports$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/satish/IdeaProjects/spark-flights/target/scala-2.11/classes/in/javamantra/spark/MostDelayedAirports$.class[0m
+[0m[[0mdebug[0m] [0m	in/javamantra[0m
+[0m[[0mdebug[0m] [0m	  /Users/satish/IdeaProjects/spark-flights/target/scala-2.11/classes/in/javamantra[0m
+[0m[[0mdebug[0m] [0m	in/javamantra/spark[0m
+[0m[[0mdebug[0m] [0m	  /Users/satish/IdeaProjects/spark-flights/target/scala-2.11/classes/in/javamantra/spark[0m
+[0m[[0mdebug[0m] [0m	in[0m
+[0m[[0mdebug[0m] [0m	  /Users/satish/IdeaProjects/spark-flights/target/scala-2.11/classes/in[0m
+[0m[[0mdebug[0m] [0m	in/javamantra/spark/MostDelayedAirports.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/satish/IdeaProjects/spark-flights/target/scala-2.11/classes/in/javamantra/spark/MostDelayedAirports.class[0m
+[0m[[0mdebug[0m] [0m	in/javamantra/spark/Flight$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/satish/IdeaProjects/spark-flights/target/scala-2.11/classes/in/javamantra/spark/Flight$.class[0m
+[0m[[0mdebug[0m] [0m	in/javamantra/spark/MostDelayedAirports$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/satish/IdeaProjects/spark-flights/target/scala-2.11/classes/in/javamantra/spark/MostDelayedAirports$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	in/javamantra/spark/Flight.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/satish/IdeaProjects/spark-flights/target/scala-2.11/classes/in/javamantra/spark/Flight.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
